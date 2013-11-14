@@ -1,0 +1,5 @@
+\doublespacing 
+\contentsline {chapter}{Inhaltsverzeichnis}{3}
+\contentsline {chapter}{Abbildungsverzeichnis}{4}
+\contentsline {chapter}{Tabellenverzeichnis}{5}
+\contentsline {chapter}{Literaturverzeichnis}{4}
