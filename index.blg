@@ -1,3 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: index.aux
 The style file: alpha.bst
 Database file #1: lit.bib
+Repeated entry---line 157 of file lit.bib
+ : @book{halvey2007business
+ :                         ,
+I'm skipping whatever remains of this entry
+(There was 1 error message)

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.9)  14 NOV 2013 12:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.9)  18 NOV 2013 21:01
 entering extended mode
 **index.tex
-(C:\Users\simon\Desktop\Consulting\consulting\index.tex
+(C:\Users\simon\Desktop\consulting\index.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -848,10 +848,7 @@ Package natbib Warning: The `cite' package should not be used
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citenum on input line 708.
 \c@NAT@ctr=\count144
-) (C:\Users\simon\Desktop\Consulting\consulting\index.aux
-(C:\Users\simon\Desktop\Consulting\consulting\(.aux)
-(C:\Users\simon\Desktop\Consulting\consulting\(.aux)
-(C:\Users\simon\Desktop\Consulting\consulting\(.aux))
+) (C:\Users\simon\Desktop\consulting\index.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
@@ -1059,7 +1056,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 11.03998pt on input line 23.
- (C:\Users\simon\Desktop\Consulting\consulting\index.toc)
+ (C:\Users\simon\Desktop\consulting\index.toc)
 \tf@toc=\write8
  [3
 
@@ -1067,7 +1064,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 
 ]
-(C:\Users\simon\Desktop\Consulting\consulting\index.lof)
+(C:\Users\simon\Desktop\consulting\index.lof)
 \tf@lof=\write9
  [4
 
@@ -1077,7 +1074,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 
 ]
-(C:\Users\simon\Desktop\Consulting\consulting\index.lot)
+(C:\Users\simon\Desktop\consulting\index.lot)
 \tf@lot=\write10
  [5
 
@@ -1087,7 +1084,12 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 
 ]
-No file (.tex.
+(C:\Users\simon\Desktop\consulting\definition.tex
+Kapitel 1.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.24796pt on input line 12.
 [1
 
 
@@ -1098,13 +1100,27 @@ No file (.tex.
 
 
 ]
-No file (.tex.
-[2
+Overfull \hbox (0.69156pt too wide) in paragraph at lines 23--29
+\T1/phv/m/n/12 Der Be-griff In-hou-se Con-sul-ting wird häu-fig auch als in-ter
+-ne Be-ra-tung be-zeich-net. ([],
+ []
+
+[2]
+Overfull \hbox (3.70558pt too wide) in paragraph at lines 37--41
+\T1/phv/m/n/12 cing (BPO). Einen mehr be-triebs-wirt-schaft-li-chen Be-griff li
+e-fert Tü-fek-ci-ler: BPO be-schreibt
+ []
 
 
-]
-No file (.tex.
-(C:\Users\simon\Desktop\Consulting\consulting\index.bbl [3
+Overfull \hbox (16.15791pt too wide) in paragraph at lines 42--43
+[]\T1/phv/m/n/12 Eine Zu-sam-men-fas-sung als Lis-te mit we-sent-li-chen Merk-m
+a-len aus meh-re-ren IT-orientierten
+ []
+
+) (C:\Users\simon\Desktop\consulting\aspekte.tex [3]
+Kapitel 2.
+) (C:\Users\simon\Desktop\consulting\vergleich.tex)
+(C:\Users\simon\Desktop\consulting\index.bbl [4
 
 
 ]
@@ -1112,30 +1128,31 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 11.03998pt on input line 5.
- [4
+ [5
 
 
-])
-(C:\Users\simon\Desktop\Consulting\consulting\index.aux
-(C:\Users\simon\Desktop\Consulting\consulting\(.aux)
-(C:\Users\simon\Desktop\Consulting\consulting\(.aux)
-(C:\Users\simon\Desktop\Consulting\consulting\(.aux)) ) 
+] [6])
+(C:\Users\simon\Desktop\consulting\index.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
 Here is how much of TeX's memory you used:
- 11293 strings out of 493921
- 161268 string characters out of 3144876
- 309699 words of memory out of 3000000
- 14260 multiletter control sequences out of 15000+200000
- 41109 words of font info for 61 fonts, out of 3000000 for 9000
+ 11342 strings out of 493921
+ 161981 string characters out of 3144876
+ 313699 words of memory out of 3000000
+ 14313 multiletter control sequences out of 15000+200000
+ 43839 words of font info for 63 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 64i,12n,89p,1511b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/
-MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/h
-elvetic/uhvro8a.pfb>
-Output written on index.pdf (9 pages, 45652 bytes).
+ 64i,12n,89p,1511b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on index.pdf (11 pages, 60291 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  12 words of extra memory for PDF output out of 10000 (max. 10000000)
 
