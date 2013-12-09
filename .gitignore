@@ -1,6 +1,5 @@
 *
 !*.tex
-!*.pdf
 !*.bib
 !.gitignore
 !Local TeX Files/
